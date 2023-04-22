@@ -1,6 +1,6 @@
 <div align="center">
 
-# Git Homework 1
+# Git Homework 2
 
 </div>
 
