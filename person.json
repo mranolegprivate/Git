@@ -6,6 +6,7 @@
 		"notebook" : "MSI",
 		"PC" : {
 			"cpu" : "5600x",
-			"gpu" : "3080ti"
+			"gpu" : "3080ti",
+			"motherboard" : "Asus"
 		}
 }
