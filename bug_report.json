@@ -1,1 +1,12 @@
-
+{
+"ID": "HW-2",
+"Title": "What?Where?When?",
+"Severity": "Medium",
+"Priority": "high", 
+"Precondition": "Preparation steps",
+"Environment": "Devices",
+"STR": "Steps to restore",
+"ER": "Expected result",
+"AR": "Actual Result",
+"Attachment": "link"
+}
