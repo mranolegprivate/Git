@@ -76,8 +76,8 @@
  `git commit -m "second commit json"`
  `git push`
  
- 13. На веб интерфейсе создать файл bug_report.json. 
- ``
+ 13. На веб интерфейсе создать файл bug_report.json.  
+ В репозитории нажать  `Add file` далее `Create new file` в поле "Name your file... ввести `bug_report.json`" и нажать кнопку `[Commit new file]`
  
  14. Сделать Commit changes (сохранить) изменения на веб интерфейсе. 
  ``
