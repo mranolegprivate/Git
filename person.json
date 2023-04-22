@@ -1,0 +1,10 @@
+{
+	"person_name" : "Oleg",
+	"person_age" : 35,
+	"person_devices" : {
+		"telephone" : "samsung",
+		"notebook" : "MSI",
+		"PC" : {
+			"cpu" : "5600x",
+			"gpu" : "3080ti"
+}
