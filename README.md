@@ -1,10 +1,8 @@
 <div align="center">
 
-# Git Homework 2
+# Git Homework 2 "JSON"
 
 </div>
-
-### JSON  
 
 |№| Задание | Ответ |
 |:---|:---|:---|
