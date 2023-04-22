@@ -7,7 +7,7 @@
 |№| Задание | Ответ |
 |:---|:---|:---|
  | 4. | Создать внешний репозиторий c названием JSON.  |[Link](https://github.com/mranolegprivate/JSON "HW JSON")|
- |5.| Клонировать репозиторий JSON на локальный компьютер.  |git clone https://github.com/mranolegprivate/JSON |
+ |5.| Клонировать репозиторий JSON на локальный компьютер.  |git clone git@github.com:mranolegprivate/JSON.git |
  |6. |Внутри локального JSON создать файл “new.json”.  ||
  |7. |Добавить файл под гит.  ||
  |8. |Закоммитить файл.  ||
