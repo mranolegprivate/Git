@@ -9,7 +9,7 @@
  | 4. | Создать внешний репозиторий c названием JSON.  |[Link](https://github.com/mranolegprivate/JSON "HW JSON")|
  |5.| Клонировать репозиторий JSON на локальный компьютер.  |git clone git@github.com:mranolegprivate/JSON.git |
  |6. |Внутри локального JSON создать файл “new.json”.  |touch new.json|
- |7. |Добавить файл под гит.  | git add new.json |
+ |7. |Добавить файлы под гит.  | git add . |
  |8. |Закоммитить файл.  | git commit -m "json first commit" |
  |9. |Отправить файл на внешний GitHub репозиторий.  | git push |
  |10. |Отредактировать содержание файла “new.json” - написать информацию о себе (ФИО, возраст, количество домашних животных, будущая желаемая зарплата). Всё написать в формате JSON.  ||
