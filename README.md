@@ -77,16 +77,30 @@
  `git push`
  
  13. На веб интерфейсе создать файл bug_report.json.  
- В репозитории нажать  `Add file` далее `Create new file` в поле "Name your file... ввести `bug_report.json`" и нажать кнопку `[Commit new file]`
+ В репозитории нажать  `Add file` далее `Create new file` в поле "Name your file... ввести `bug_report.json`
+
+ 14. Сделать Commit changes (сохранить) изменения на веб интерфейсе.  
+  Нажать кнопку `[Commit new file]`
  
- 14. Сделать Commit changes (сохранить) изменения на веб интерфейсе. 
- ``
- 
- 15. На веб интерфейсе модифицировать файл bug_report.json, добавить баг репорт в формате JSON. 
- ``
+ 15. На веб интерфейсе модифицировать файл bug_report.json, добавить баг репорт в формате JSON.  
+ Кликнуть по `bug_report.json` нажать на иконку `Edit this file` и вставить json.
+ ```json
+ {
+ "ID": "HW-2",
+ "Title": "What?Where?When?",
+ "Severity": "Medium",
+ "Priority": "high", 
+ "Precondition": "Preparation steps",
+ "Environment": "Devices",
+ "STR": "Steps to restore",
+ "ER": "Expected result",
+ "AR": "Actual Result",
+ "Attachment": "link"
+}
+ ```
  
  26. Сделать Commit changes (сохранить) изменения на веб интерфейсе. 
- ``
+ Нажать кнопку `[Commit changes]`
  
  27. Синхронизировать внешний и локальный репозиторий JSON.  
- ``
+ `git pull`
