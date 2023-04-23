@@ -17,7 +17,7 @@
  `git add .`
  
  8. Закоммитить файл.  
- `git commit -m "json first commit"`
+ `git commit -m 'json first commit'`
  
  9. Отправить файл на внешний GitHub репозиторий.  
  `git push`
@@ -34,7 +34,7 @@
 } 
 ```
  11. Отправить изменения на внешний репозиторий. 
- ` git push`
+ `git commit -am 'new commit'` `git push`
  
  12. Создать файл preferences.json  
  `touch preferences.json`
@@ -73,11 +73,11 @@
  
  15. Отправить сразу 2 файла на внешний репозиторий.  
  `git add .`
- `git commit -m "second commit json"`
+ `git commit -m 'second commit json'`
  `git push`
  
  16. На веб интерфейсе создать файл bug_report.json.  
- В репозитории нажать  `Add file` далее `Create new file` в поле "Name your file... ввести `bug_report.json`
+ В репозитории нажать  `Add file` далее `Create new file` в поле "Name your file..." ввести `bug_report.json`
 
  17. Сделать Commit changes (сохранить) изменения на веб интерфейсе.  
   Нажать кнопку `[Commit new file]`
