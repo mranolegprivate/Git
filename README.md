@@ -92,7 +92,7 @@
  "Priority": "High", 
  "Precondition": "Preparation reproduce",
  "Environment": "Devices",
- "STR": "Steps to restore",
+ "STR": "Steps to reproduce",
  "ER": "Expected result",
  "AR": "Actual Result",
  "Attachment": "link"
