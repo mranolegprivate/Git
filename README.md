@@ -89,7 +89,7 @@
  "ID": "HW-2",
  "Title": "What?Where?When?",
  "Severity": "Medium",
- "Priority": "high", 
+ "Priority": "High", 
  "Precondition": "Preparation reproduce",
  "Environment": "Devices",
  "STR": "Steps to restore",
