@@ -90,7 +90,7 @@
  "Title": "What?Where?When?",
  "Severity": "Medium",
  "Priority": "high", 
- "Precondition": "Preparation steps",
+ "Precondition": "Preparation reproduce",
  "Environment": "Devices",
  "STR": "Steps to restore",
  "ER": "Expected result",
